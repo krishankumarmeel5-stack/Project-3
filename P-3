@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TechPulse News</title>
+</head>
+<body>
+
+<h1>TechPulse News</h1>
+<p><b>Latest Technology News Platform</b></p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwjAi7Ypuh-onWXm-J3k1xWIUf-vIyJLfD96FxJyE1w&s" width="500">
+
+<hr>
+
+<ul>
+<li><a href="P-3">Home</a></li>
+<li><a href="Sub-3.html">Latest News</a></li>
+<li><a href="Sub-2.html">Contact</a></li>
+</ul>
+
+<hr>
+
+<h2>Welcome to TechPulse News</h2>
+
+<p><b>TechPulse News</b> brings you <mark>trusted</mark> and <i>updated</i> technology news from around the world.</p>
+
+<p>We cover topics like <u>Artificial Intelligence</u>, Mobile Technology, Space Science and Cyber Security.</p>
+
+<hr>
+
+<h3>Explore News Categories</h3>
+
+<ol>
+<li>AI News</li>
+<li>Mobile Technology</li>
+<li>Space & Science</li>
+<li>Cyber Security</li>
+</ol>
+
+<p><a href="Sub-1.html">Click here to read latest tech news</a></p>
+
+<hr>
+
+<p>© 2026 TechPulse News</p>
+
+</body>
+</html>
